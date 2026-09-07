@@ -1,0 +1,22 @@
+﻿{
+  "name": "companion-module-sharun-pdfpresenter",
+  "version": "1.0.0",
+  "description": "Bitfocus Companion module for PDF Presenter Suite",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "author": "Joseph Sharun <josephsharun9895@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SHARUNJOSEPH/companion-module-sharun-pdfpresenter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SHARUNJOSEPH/companion-module-sharun-pdfpresenter/issues"
+  },
+  "homepage": "https://github.com/SHARUNJOSEPH/companion-module-sharun-pdfpresenter#readme",
+  "dependencies": {
+    "@companion-module/base": "^1.14.1"
+  }
+}
