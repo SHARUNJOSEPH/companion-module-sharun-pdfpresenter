@@ -1,18 +1,18 @@
 {
 	"$schema": "../node_modules/@companion-module/base/assets/manifest.schema.json",
 	"type": "connection",
-	"id": "your-module-name",
-	"name": "your-module-name",
-	"shortname": "module-shortname",
-	"description": "A short one line description of your module",
-	"version": "0.0.0",
+	"id": "sharun-pdfpresenter",
+	"name": "PDF Presenter Suite",
+	"shortname": "PDF Presenter",
+	"description": "Control dual-screen PDF presentations, jump to slides, toggle blackouts, and monitor timers in PDF Presenter Suite.",
+	"version": "1.0.0",
 	"license": "MIT",
-	"repository": "git+https://github.com/bitfocus/companion-module-your-module-name.git",
-	"bugs": "https://github.com/bitfocus/companion-module-your-module-name/issues",
+	"repository": "git+https://github.com/bitfocus/companion-module-sharun-pdfpresenter.git",
+	"bugs": "https://github.com/bitfocus/companion-module-sharun-pdfpresenter/issues",
 	"maintainers": [
 		{
-			"name": "Your name",
-			"email": "Your email"
+			"name": "Joseph Sharun",
+			"email": "josephsharun9895@gmail.com"
 		}
 	],
 	"runtime": {
@@ -22,7 +22,18 @@
 		"entrypoint": "../src/main.js"
 	},
 	"legacyIds": [],
-	"manufacturer": "Your company",
-	"products": ["Your product"],
-	"keywords": []
+	"manufacturer": "Joseph Sharun",
+	"products": [
+		"PDF Presenter Suite"
+	],
+	"keywords": [
+		"pdf",
+		"presentation",
+		"presenter",
+		"keynote",
+		"slides",
+		"dual-screen",
+		"conference",
+		"streamdeck"
+	]
 }
